@@ -1,1 +1,0 @@
-# Checkpoint-TypeScript-Fundamentals
